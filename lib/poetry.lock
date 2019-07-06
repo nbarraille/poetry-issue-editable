@@ -1,0 +1,19 @@
+[[package]]
+category = "main"
+description = ""
+name = "lib2"
+optional = false
+python-versions = "*"
+version = "0.0"
+
+[package.source]
+reference = ""
+type = "directory"
+url = "../lib2"
+
+[metadata]
+content-hash = "b83b8c3df6c0af2681efba5a55e78c39cf085307e33c7d9bc85557781e1aef55"
+python-versions = "^3.6"
+
+[metadata.hashes]
+lib2 = []

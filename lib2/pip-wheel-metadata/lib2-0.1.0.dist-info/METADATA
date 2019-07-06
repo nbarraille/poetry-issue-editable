@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: lib2
+Version: 0.1.0
+Summary: 
+Author: Nathan Barraille
+Author-email: nathan.barraille@gmail.com
+Requires-Python: >=3.6,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7

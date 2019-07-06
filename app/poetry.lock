@@ -1,0 +1,36 @@
+[[package]]
+category = "main"
+description = ""
+name = "lib"
+optional = false
+python-versions = "^3.6"
+version = "0.1.0"
+
+[package.dependencies]
+lib2 = "*"
+
+[package.source]
+reference = ""
+type = "directory"
+url = "../lib"
+
+[[package]]
+category = "main"
+description = ""
+name = "lib2"
+optional = false
+python-versions = "^3.6"
+version = "0.1.0"
+
+[package.source]
+reference = ""
+type = "directory"
+url = "../lib2"
+
+[metadata]
+content-hash = "178e7601cde68b169342923eb15ac848faed8d21753417304107ceda916d3978"
+python-versions = "^3.6"
+
+[metadata.hashes]
+lib = []
+lib2 = []
